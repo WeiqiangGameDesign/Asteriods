@@ -1,0 +1,75 @@
+﻿  main.cpp
+D:\vsrepo\Asteroids\Asteroids\SpaceShip.h(60,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\vsrepo\Asteroids\Asteroids\SpaceShip.h(61,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\vsrepo\Asteroids\Asteroids\SpaceShip.h(68,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\vsrepo\Asteroids\Asteroids\SpaceShip.h(69,1): warning C4244: '+=': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\vsrepo\Asteroids\Asteroids\CollisionDetectUtil.h(105,2): warning C4091: 'static ': ignored on left of 'CollisionDetectUtil' when no variable is declared
+D:\vsrepo\Asteroids\Asteroids\main.cpp(33,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\vsrepo\Asteroids\Asteroids\main.cpp(41,56): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\vsrepo\Asteroids\Asteroids\main.cpp(41,43): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+D:\vsrepo\Asteroids\Asteroids\main.cpp(98,48): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\vsrepo\Asteroids\Asteroids\main.cpp(98,28): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\vsrepo\Asteroids\Asteroids\main.cpp(151,17): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\vsrepo\Asteroids\Asteroids\main.cpp(152,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\vsrepo\Asteroids\Asteroids\main.cpp(224,62): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vsrepo\Asteroids\Asteroids\main.cpp(224,48): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\vsrepo\Asteroids\Asteroids\main.cpp(231,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(251,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\vsrepo\Asteroids\Asteroids\main.cpp(252,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\vsrepo\Asteroids\Asteroids\main.cpp(285,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\vsrepo\Asteroids\Asteroids\main.cpp(286,21): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\vsrepo\Asteroids\Asteroids\main.cpp(361,23): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(379,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(389,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(400,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(418,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(435,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(436,23): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(451,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(513,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(514,27): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(543,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(566,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(570,22): warning C4018: '<': signed/unsigned mismatch
+D:\vsrepo\Asteroids\Asteroids\main.cpp(582,30): warning C4244: 'argument': conversion from 'float' to 'unsigned int', possible loss of data
+  Asteroids.vcxproj -> D:\vsrepo\Asteroids\Debug\Asteroids.exe
